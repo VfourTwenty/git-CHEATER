@@ -6,6 +6,12 @@ Wonder how others manage to make tens of commits daily and have a bright green c
 Well, it's all hard work and discipline! Or not always so?.. 
 Git itself offers a feature of interactive rebasing, and this project takes advantage of the system's possibilities to allow for commit addition, deletion and distribution in seconds with Python and Bash automation!
 
+Demo:
+
+https://github.com/user-attachments/assets/53d432f8-a891-4e04-bb9c-d7788aa54daf
+
+
+
 ## Features
 - Add generic commits to a private repository.
 - Make as many commits as you like and randomly distribute them over a range.
